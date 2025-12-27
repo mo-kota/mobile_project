@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850523381602",
+    "project_id": "mobileprog-project",
+    "storage_bucket": "mobileprog-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850523381602:android:58565a30efafaa1277d63b",
+        "android_client_info": {
+          "package_name": "com.abdelwahab.TechArena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850523381602-6u0tj5aq979dkd0bn944o11150dqogl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqqWT0VZOG4SX-kLrWROF-1PSto4PjnnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850523381602-6u0tj5aq979dkd0bn944o11150dqogl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
